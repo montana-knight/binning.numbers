@@ -1,11 +1,10 @@
 Package: binning.numbers
-Title: What the Package Does (One Line, Title Case)
+Title: Bins numbers of a sequence
 Version: 0.0.0.9000
 Authors@R: 
     person("Montana", "Knight", , "mknight@ncsu.edu", role = c("aut", "cre"))
 Description: This package takes a sequence of numbers and bins them. Then it reports what the bins were and how many numbers were in each bin.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
